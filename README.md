@@ -15,8 +15,8 @@ This project implements Image Steganography using the Least Significant Bit (LSB
 #  Installation & Setup
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/LSB-Steganography-Encryption.git
-cd LSB-Steganography-Encryption
+git clone https://github.com/your-username/Secure-Image-Steganography.git
+cd Secure-Image-Steganography
 ```
 2. Create a virtual environment:
 ```
