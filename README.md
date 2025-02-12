@@ -38,3 +38,16 @@ python app.py
 ```
 6. Access the web interface at http://127.0.0.1:5000
 
+## Usage Guide
+
+### Embed a Message: Upload an image, enter a message, and click "Embed".
+
+### Extract a Message: Upload a steganographic image, enter the key, and retrieve the hidden message.
+
+## Security Considerations
+
+The AES encryption ensures that even if someone extracts bits, they cannot read the original message without the key.
+
+The LSB technique is vulnerable to noise and compression; avoid using JPEG images.
+
+
